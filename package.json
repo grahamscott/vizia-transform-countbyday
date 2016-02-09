@@ -1,0 +1,23 @@
+{
+  "name": "@vizia/countbyday",
+  "version": "1.0.0",
+  "description": "reduce over an array, counting items by day according to the supplied key",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/tests.js | faucet"
+  },
+  "keywords": [
+    "vizia",
+    "vizia-transform",
+    "reduce"
+  ],
+  "author": "graham scott",
+  "license": "MIT",
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^4.4.0"
+  },
+  "dependencies": {
+    "moment": "^2.11.2"
+  }
+}
