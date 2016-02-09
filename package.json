@@ -1,6 +1,6 @@
 {
   "name": "@vizia/count-by-day",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "reduce over an array, counting items by day according to the supplied key",
   "main": "index.js",
   "scripts": {
