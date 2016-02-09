@@ -20,7 +20,7 @@ test('it reduces over the key, using the provided date format', (assert) => {
 
   assert.deepEqual(aggregate, {
     '2016-01-01': 3,
-    '2016-01-02': 1,
+    '2016-01-02': 1
   })
 
   assert.end()
