@@ -1,5 +1,7 @@
 A simple module that exports a function that can be used to reduce over an array etc, counting items within the array that are grouped by day.
 
+[![Build Status](https://travis-ci.org/BrandwatchLtd/vizia-transform-countbyday.svg?branch=master)](https://travis-ci.org/BrandwatchLtd/vizia-transform-countbyday)
+
 Uses [moment.js](http://momentjs.com/) under the hood for date parsing
 
     var fixture = [{
